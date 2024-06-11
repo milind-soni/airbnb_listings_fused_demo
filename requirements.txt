@@ -1,4 +1,5 @@
 streamlit
+fused
 folium
 branca
 geopandas
