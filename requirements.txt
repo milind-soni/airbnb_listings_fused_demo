@@ -3,5 +3,6 @@ fused
 folium
 branca
 geopandas
+streamlit-folium
 h3
 requests
